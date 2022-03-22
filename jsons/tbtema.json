@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"linguabrasil"},
+{"type":"table","name":"tbtema","database":"linguabrasil","data":
+[
+{"id_tema":"1","tema":"Acentuação"},
+{"id_tema":"2","tema":"Correspondência"},
+{"id_tema":"3","tema":"Crase"},
+{"id_tema":"4","tema":"Linguagem jurídica"},
+{"id_tema":"5","tema":"Pontuação"},
+{"id_tema":"6","tema":"Preposições"},
+{"id_tema":"7","tema":"Pronomes"},
+{"id_tema":"8","tema":"Vírgulas"},
+{"id_tema":"9","tema":"Geral"}
+]
+}
+]
